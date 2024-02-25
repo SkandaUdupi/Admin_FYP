@@ -55,6 +55,7 @@ const CategoryList = ({ onClick }) => {
 
   const onAddCategory = (e) => {
     //add data to object when clicked on + button
+    //input - has data which user inputs
 
     // setCategories((prevState) => {
     //   return [...prevState, { id: uuidv4(), cat: input, subcategories: null }];

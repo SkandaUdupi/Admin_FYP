@@ -33,6 +33,7 @@ const AddScrap = ({ id }) => {
   };
   const onAddSubCat = () => {
     //  Add to DataBase
+    //inputName and inputPrice has data enterd by user
   };
 
   return (

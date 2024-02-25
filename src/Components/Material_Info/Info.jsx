@@ -1,7 +1,7 @@
 import React from "react";
 import Display from "./Display";
 import AddScrap from "./AddScrap";
-import { Box, Grid, useMediaQuery } from "@mui/material";
+import { Grid, useMediaQuery } from "@mui/material";
 
 const Info = ({ id, subCat }) => {
   // Use media query hook to check if the screen size is small

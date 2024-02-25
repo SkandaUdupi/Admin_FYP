@@ -24,6 +24,8 @@ const Display = ({ id, subcat }) => {
     // Here, you can handle saving the edited price
     console.log("Edited Price:", editedPrice);
     // Reset edited price and index after saving
+
+    //save to DB
     setEditedPrice(null);
     setEditedIndex(null);
   };
